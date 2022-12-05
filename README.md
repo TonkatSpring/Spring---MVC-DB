@@ -20,4 +20,4 @@
 ## 완강 여부
 
 - [ ] jdi022222
-- [ ] CocoIsCat
+- [x] CocoIsCat
